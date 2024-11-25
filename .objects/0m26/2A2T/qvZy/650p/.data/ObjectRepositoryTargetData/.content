@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Jo5nYsTnnUCoutCN0VQsMw" Reference="FXdJH3-DYU2puLfSlO2WXQ/650pvsgCEk2QXRsWMQITnQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj" CVScreenId="b1247164-fc36-467c-8173-063be82cc8b1" CvTextArea="89, 624, 370, 23" CvType="AnyWordGroup" DesignTimeRectangle="39, 658, 580, 31" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;webctrl class='col-12' idx='4' parentid='collapseSidebar' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl class='col-12' type='' parentid='collapseSidebar' tag='DIV' /&gt;" Guid="e70c273f-dc99-4aa7-93bd-14512e0adfc9" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Portal de Dados Abertos' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b1247164-fc36-467c-8173-063be82cc8b1" CvTextArea="261, 627, 198, 20" CvTextArgument="13/11/2024 17:20:38" CvType="Text" DesignTimeRectangle="262, 662, 196, 21" ElementType="Text" Guid="cd5b9a3e-8f97-4f36-8b6e-85cb078c4cab" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b866dc4c5faa6f2c24084973773d3313.png" xmlns="">0fFjrOrRtoESAOedljLWNLw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

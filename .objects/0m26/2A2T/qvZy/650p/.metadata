@@ -1,0 +1,17 @@
+﻿{
+  "Name": "13112024 172038",
+  "Type": "Element",
+  "TaxonomyType": "Elemento",
+  "Id": "650pvsgCEk2QXRsWMQITnQ",
+  "Reference": "FXdJH3-DYU2puLfSlO2WXQ/650pvsgCEk2QXRsWMQITnQ",
+  "ParentRef": "FXdJH3-DYU2puLfSlO2WXQ/qvZyqqUX0ECuZs6wh6m26w",
+  "Created": "2024-11-22T17:48:58.6163568Z",
+  "Updated": "2024-11-22T19:19:34.7639822Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

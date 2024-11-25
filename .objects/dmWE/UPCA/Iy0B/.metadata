@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Index of dadoscnpjdados_abertos_cnpj",
+  "Type": "Screen",
+  "Id": "Iy0B3XSur02PpVbfUaGLxA",
+  "Reference": "FXdJH3-DYU2puLfSlO2WXQ/Iy0B3XSur02PpVbfUaGLxA",
+  "ParentRef": "FXdJH3-DYU2puLfSlO2WXQ/UPCAWzQD70GvxyGNkn_5Hw",
+  "Created": "2024-11-22T20:40:02.4336308Z",
+  "Updated": "2024-11-22T20:40:02.4336308Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

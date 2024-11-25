@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kfHl3hh3nE6BXcFM471U8A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2024-11" CVScreenId="1e43072f-21bd-4e58-846f-db8e72b48de1" DesignTimeRectangle="57, 313, 117, 22" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' tag='A' class='' aaname='Empresas0.zip' check:innerText='{0}' /&gt;&quot;, vt_ident)]" Guid="62cc1b37-012e-4f6b-9df5-cb3a3ddb23ed" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Index of /dados/cnpj/dados_abertos_cnpj/2024-11' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ed9d9267ce117ee2aeec5add6ce2eab3.png" xmlns="">0lbxjNK25cEGtEWLzyl3C9A</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="vt_ident" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

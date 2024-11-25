@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Nova guia",
+  "Type": "App",
+  "Id": "eQL38RQXBk2npeNV4qpZ7w",
+  "Reference": "FXdJH3-DYU2puLfSlO2WXQ/eQL38RQXBk2npeNV4qpZ7w",
+  "Created": "2024-11-23T16:37:10.9729547Z",
+  "Updated": "2024-11-23T16:37:10.9729547Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

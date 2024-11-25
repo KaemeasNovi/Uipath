@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Etiqueta '2024-11'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "-BfhahWpd0uNEbVYq4M-Rw",
+  "Reference": "FXdJH3-DYU2puLfSlO2WXQ/-BfhahWpd0uNEbVYq4M-Rw",
+  "ParentRef": "FXdJH3-DYU2puLfSlO2WXQ/Iy0B3XSur02PpVbfUaGLxA",
+  "Created": "2024-11-22T20:43:11.6762731Z",
+  "Updated": "2024-11-22T20:43:11.6762731Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

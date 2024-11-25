@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Acessar o recurso",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "1vHg3FU6PEWNovuF-oVXsA",
+  "Reference": "FXdJH3-DYU2puLfSlO2WXQ/1vHg3FU6PEWNovuF-oVXsA",
+  "ParentRef": "FXdJH3-DYU2puLfSlO2WXQ/qvZyqqUX0ECuZs6wh6m26w",
+  "Created": "2024-11-23T23:53:49.0066827Z",
+  "Updated": "2024-11-23T23:53:49.0066827Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

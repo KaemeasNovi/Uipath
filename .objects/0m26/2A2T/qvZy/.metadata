@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Portal de Dados Abertos",
+  "Type": "Screen",
+  "Id": "qvZyqqUX0ECuZs6wh6m26w",
+  "Reference": "FXdJH3-DYU2puLfSlO2WXQ/qvZyqqUX0ECuZs6wh6m26w",
+  "ParentRef": "FXdJH3-DYU2puLfSlO2WXQ/2A2TIduS_EGBojoZOd0gLg",
+  "Created": "2024-11-22T17:46:58.8055278Z",
+  "Updated": "2024-11-22T17:46:58.8055278Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

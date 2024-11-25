@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Portal de Dados Abertos - Google Chrome",
+  "Type": "App",
+  "Id": "GZKb9jrwlke06DjIFfpnnw",
+  "Reference": "FXdJH3-DYU2puLfSlO2WXQ/GZKb9jrwlke06DjIFfpnnw",
+  "Created": "2024-11-22T17:44:49.6201111Z",
+  "Updated": "2024-11-22T17:44:49.6201111Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

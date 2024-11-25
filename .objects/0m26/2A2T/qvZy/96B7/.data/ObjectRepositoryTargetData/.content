@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LlkZJlQVXEqn5wocY9NrzQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj" CVScreenId="a6cffecf-f7be-4f1e-8b4c-67cff38fbb23" CvElementArea="884, 558, 246, 50" CvTextArea="935, 575, 142, 16" CvTextArgument="Acessar O recurso" CvType="Button" DesignTimeRectangle="883, 558, 247, 50" DesignTimeScaleFactor="1.25" ElementType="Button" Guid="e6179999-8ee9-4b5c-98d7-b12784d1c8b1" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Portal de Dados Abertos' /&gt;" SearchSteps="CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a6cffecf-f7be-4f1e-8b4c-67cff38fbb23" CvElementArea="884, 558, 246, 50" CvTextArea="935, 575, 142, 16" CvTextArgument="Acessar O recurso" CvType="Button" DesignTimeRectangle="886, 560, 979, 47" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;section&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' idx='3' parentid='collapse-recursos' tag='DIV' /&gt;" Guid="c0a9c585-1918-40a4-9afe-62a149c2a5ce" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f952292f405acb5400e7772cfaf3a177.png" xmlns="">0Gbmf23EAMkmS_mkuO9X9Pw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

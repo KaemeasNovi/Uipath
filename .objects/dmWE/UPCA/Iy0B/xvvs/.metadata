@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Etiqueta 'Cnaes.zip'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "xvvszVAIvkaVmlhZqE3k8w",
+  "Reference": "FXdJH3-DYU2puLfSlO2WXQ/xvvszVAIvkaVmlhZqE3k8w",
+  "ParentRef": "FXdJH3-DYU2puLfSlO2WXQ/Iy0B3XSur02PpVbfUaGLxA",
+  "Created": "2024-11-23T16:22:05.0699265Z",
+  "Updated": "2024-11-23T16:22:05.0699265Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

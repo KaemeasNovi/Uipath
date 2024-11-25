@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Etiqueta 'Empresas0.zip'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "IiZP8SKVIEa19geD5cXfIw",
+  "Reference": "FXdJH3-DYU2puLfSlO2WXQ/IiZP8SKVIEa19geD5cXfIw",
+  "ParentRef": "FXdJH3-DYU2puLfSlO2WXQ/Iy0B3XSur02PpVbfUaGLxA",
+  "Created": "2024-11-23T16:51:07.1769337Z",
+  "Updated": "2024-11-23T16:51:07.1769337Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

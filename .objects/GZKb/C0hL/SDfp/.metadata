@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Portal de Dados Abertos - Google Chrom",
+  "Type": "Screen",
+  "Id": "SDfpf7FKqUOCwZ54rqQPDQ",
+  "Reference": "FXdJH3-DYU2puLfSlO2WXQ/SDfpf7FKqUOCwZ54rqQPDQ",
+  "ParentRef": "FXdJH3-DYU2puLfSlO2WXQ/C0hLFTqzSUGII_hO2i_W3Q",
+  "Created": "2024-11-22T17:44:49.9611627Z",
+  "Updated": "2024-11-22T17:44:49.9611627Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

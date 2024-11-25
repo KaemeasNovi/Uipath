@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="f7HpM_2XRUG8o5leEAQwVw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj" CVScreenId="f6c690c4-8196-44f0-9718-0e55d7133d2d" CvTextArea="55, 915, 73, 17" CvTextArgument="2024-11/" CvType="Text" DesignTimeRectangle="57, 913, 71, 22" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' tag='A' class='' aaname='2024-11/' check:innerText='2024-11/' /&gt;" Guid="7558b1d5-4044-4cf6-a8c5-2a02937395b4" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Index of /dados/cnpj/dados_abertos_cnpj' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="57238e8cda18e69f5b59c4fdb89a8f78.png" xmlns="">0wZJC50_LIE-VDECEzLwFOw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
